@@ -6,7 +6,7 @@
 
 ## 📚 About This Project
 
-This repository is my submission for the Zeru AI Engineer Internship assignment round.
+This repository is my submission for the Zeru AI Engineer Internship assignment round 2.
 
 It demonstrates my ability to design, implement, and analyze a robust, transparent risk scoring system for DeFi wallets using real Compound V2 transaction data. The solution is fully original, interpretable, and designed for extensibility.
 
@@ -88,27 +88,6 @@ It demonstrates my ability to design, implement, and analyze a robust, transpare
   The model rewards wallets with more repays and asset diversity, and penalizes those with more liquidations and excessive borrowing.
 - **Risk Indicators:**  
   Liquidations and high borrow counts are considered riskier, while repays and asset diversity indicate responsible behavior.
-
----
-
-## 🚀 GitHub Push Instructions
-
-1. **Initialize git and add files:**
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit: Compound V2 Wallet Risk Scoring"
-   git branch -M main
-   git remote add origin https://github.com/yourusername/your-repo-name.git
-   git push -u origin main
-   ```
-   *(Replace `yourusername/your-repo-name` with your actual GitHub repo path.)*
-
-2. **.gitignore:**
-   - The `.gitignore` file is included to avoid pushing unnecessary files and sensitive data (like raw API keys, large data, or Python cache).
-
-3. **API Key Security:**
-   - The Covalent API key is not included in the codebase. Set it as an environment variable as shown above.
 
 ---
 
