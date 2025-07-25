@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and output (optional, if you want to keep repo light)
+data/compound_raw/
+output/
+
+# Environment files
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db 
