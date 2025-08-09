@@ -7,6 +7,7 @@
 ## 📚 About This Project
 
 This repository is my submission for the Zeru AI Engineer Internship assignment round 2.
+Update : Got selected for this role.
 
 It demonstrates my ability to design, implement, and analyze a robust, transparent risk scoring system for DeFi wallets using real Compound V2 transaction data. The solution is fully original, interpretable, and designed for extensibility.
 
